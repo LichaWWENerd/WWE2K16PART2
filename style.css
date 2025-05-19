@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #0c0c0c;
+  color: white;
+}
+header {
+  background-color: #1e1e1e;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 3px solid #e10600;
+}
+header h1 {
+  font-family: 'Impact', 'Bebas Neue', sans-serif;
+  font-size: 2.5rem;
+  color: #e10600;
+  margin-bottom: 10px;
+}
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+nav a:hover {
+  color: #e10600;
+}
+main {
+  padding: 30px;
+  text-align: center;
+}
+footer {
+  background-color: #1e1e1e;
+  color: #ccc;
+  padding: 20px;
+  text-align: center;
+  border-top: 1px solid #333;
+}
